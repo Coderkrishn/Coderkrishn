@@ -1,71 +1,69 @@
-<!-- Banner -->
+<!-- Clean Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/T7X8G8j.png" width="100%" alt="Krishn Kumar Banner"/>
+  <img src="https://raw.githubusercontent.com/akshay0701/github-banners/main/ml-banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hey 👋, I'm Krishn Kumar</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist | AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Coderkrishn&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
-</p>
+<h1 align="center">Hi 👋, I'm Krishn Kumar</h1>
+<h3 align="center">Machine Learning Engineer | Data Science Enthusiast | AI Learner</h3>
 
 ---
 
 ## 🧠 About Me  
-<img align="right" alt="Coding GIF" width="280" src="https://i.imgur.com/Z8Z8N5f.gif">
+<img align="right" alt="Coding GIF" width="260" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif">
 
-- 🔥 I build end-to-end **ML applications** & **data analytics dashboards**  
-- 🤖 Passionate about **AI, automation, and predictive modeling**  
-- 💻 Solved **500+ DSA problems** | **3⭐ CodeChef**  
-- 🎯 Skilled in **Python, C++, EDA, Model Deployment**  
-- 🎓 B.Tech — **IIIT Bhopal**  
+- 🔥 I build end-to-end **Machine Learning projects**
+- 🤖 Skilled in **Python, C++, Pandas, NumPy, Scikit-Learn, EDA**
+- 📊 Passionate about **Data Science & Predictive Modeling**
+- 🧩 Solved **500+ DSA problems** | **3⭐ CodeChef**
+- 🎓 B.Tech — **IIIT Bhopal**
+- 🚀 Always learning, creating, and improving!
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🔹 Programming  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,git,github,vscode,pycharm" />
+### 🔹 Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,pycharm" height="45" />
 </p>
 
-### 🔹 Machine Learning & Data Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/>
+### 🔹 Machine Learning  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" /> 
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" height="40"/>
 </p>
 
 ---
 
-## 🚀 Featured ML Projects
+## 🚀 Featured Projects
 
 ### 🎬 **Movie Recommender System**
-<p>
-  <img src="https://i.imgur.com/QYTJ9sJ.png" width="300"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/akshay0701/github-banners/main/recommendation-banner.png" width="400"/>
 </p>
 
-Built a content-based + collaborative filtering recommender system using Python, Pandas & Scikit-learn.
+A hybrid recommender system using content-based + collaborative filtering.
 
 ---
 
 ### 📈 **Stock Price Prediction**
-<p>
-  <img src="https://i.imgur.com/3pe9LxH.png" width="300"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/akshay0701/github-banners/main/stock-ml-banner.png" width="400"/>
 </p>
 
-End-to-end ML app predicting stock movement using XGBoost + EDA + Visualizations.
+Predicts next-day stock movements using XGBoost + EDA.
 
 ---
 
 ### 🏅 **Olympics Data Analysis**
-<p>
-  <img src="https://i.imgur.com/e0n4TqN.png" width="300"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/akshay0701/github-banners/main/olympic-analysis-banner.png" width="400"/>
 </p>
 
-Performed deep EDA on 120 years of Olympic history using Python, Pandas & Seaborn.
+Deep data exploration of Olympics data using Pandas, Seaborn & Matplotlib.
 
 ---
 
@@ -82,9 +80,9 @@ Performed deep EDA on 120 years of Olympic history using Python, Pandas & Seabor
 
 ---
 
-## 🐍 Contribution Snake Animation  
+## 🐍 GitHub Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
