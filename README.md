@@ -1,4 +1,4 @@
-<!-- Clean Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshay0701/github-banners/main/ml-banner.png" width="100%" />
 </p>
@@ -22,14 +22,14 @@
 
 ## ⚙️ Tech Stack
 
-### 🔹 Languages & Tools  
+### 🔹 Programming  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,pycharm" height="45" />
 </p>
 
-### 🔹 Machine Learning  
+### 🔹 Machine Learning Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" /> 
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" height="40"/>
@@ -42,27 +42,24 @@
 
 ### 🎬 **Movie Recommender System**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/akshay0701/github-banners/main/recommendation-banner.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/istiqomahq/image-datasets/main/recommender.png" width="420" />
 </p>
-
 A hybrid recommender system using content-based + collaborative filtering.
 
 ---
 
 ### 📈 **Stock Price Prediction**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/akshay0701/github-banners/main/stock-ml-banner.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/istiqomahq/image-datasets/main/stock_prediction.png" width="420" />
 </p>
-
 Predicts next-day stock movements using XGBoost + EDA.
 
 ---
 
 ### 🏅 **Olympics Data Analysis**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/akshay0701/github-banners/main/olympic-analysis-banner.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/istiqomahq/image-datasets/main/olympics_analysis.png" width="420" />
 </p>
-
 Deep data exploration of Olympics data using Pandas, Seaborn & Matplotlib.
 
 ---
