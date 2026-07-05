@@ -3,18 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header" width="100%"/>
 </p>
 
-<table width="100%" style="border:none;">
-  <tr style="border:none;">
-    <td width="65%" valign="middle" style="border:none;">
-      <h1>Hi, I'm Krishn Kumar 👋</h1>
-      <h3>AI Engineer building LLM &amp; agentic systems</h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C5364&center=false&vCenter=true&width=500&lines=RAG+pipelines+%26+multi-agent+systems;LangChain+%C2%B7+LangGraph+%C2%B7+Groq+%C2%B7+FastAPI;Final-Year+ECE+%40+IIIT+Bhopal" alt="Typing SVG" />
-    </td>
-    <td width="35%" align="center" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Coderkrishn&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=1a1a1a&icon_color=2C5364" width="100%"/>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi, I'm Krishn Kumar 👋</h1>
+<h3 align="center">AI Engineer building LLM & Agentic Systems</h3>
+<p align="center"><i>Final-Year ECE @ IIIT Bhopal · LangChain · LangGraph · Groq · FastAPI</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishn-kumar-2a165b240">
@@ -29,13 +20,28 @@
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Coderkrishn&style=for-the-badge&color=2C5364" alt="profile views"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coderkrishn&theme=transparent&hide_border=true&background=00000000&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coderkrishn&layout=compact&theme=transparent&hide_border=true&text_color=1a1a1a" height="150"/>
-</p>
+---
+
+## ⚡ Why work with me
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🕸️ Agentic AI</h3>
+      <p>Built a production multi-agent system with LangGraph — orchestrating research, analysis &amp; writing agents end-to-end.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🚀 Ships to Production</h3>
+      <p>Every project is deployed and live — not notebooks. FastAPI + Streamlit, from model to working app.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🧩 Strong CS Fundamentals</h3>
+      <p>500+ DSA problems solved, 4★ CodeChef — solid problem-solving foundation behind the AI work.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
