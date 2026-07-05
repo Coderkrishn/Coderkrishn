@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Krishn Kumar 👋</h1>
 <h3 align="center">AI Engineer building LLM & Agentic Systems</h3>
-<p align="center"><i>Final-Year ECE @ IIIT Bhopal · LangChain · LangGraph · Groq · FastAPI</i></p>
+<p align="center"><i> · LangChain · LangGraph · Groq · FastAPI</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishn-kumar-2a165b240">
@@ -89,14 +89,14 @@
 
 ## 🚀 Featured Projects
 
-### 🕸️ [Multi-Agent Research Pipeline](#) — [Live Demo](#) · [Code](#)
+### 🕸️ [Multi-Agent Research Pipeline](#) 
 Stateful multi-agent research system built with **LangGraph**, orchestrating **Researcher, Analyst, and Writer** agents via a DAG with conditional branching and shared memory. Uses **Tavily** for real-time web retrieval and **Groq (LLaMA 3)** for sub-second multi-step reasoning. Agents autonomously decide when to search, summarize, or synthesize using **LangChain** tool-calling. Streamlit frontend with live agent status and streamed token output.
 > My flagship project — solo build, end-to-end.
 
-### 🩺 [AI Disease Prediction System](#) — [Live Demo](#) · [Code](#)
+### 🩺 [AI Disease Prediction System](#) 
 End-to-end disease prediction system using a **majority-vote ensemble** (Random Forest, Naive Bayes, SVM) for multi-class symptom classification. **FastAPI** backend + **Streamlit** frontend for real-time predictions, with custom symptom vectorization and label encoding to safely handle unseen inputs.
 
-### 📈 [Stock Price Predictor](#) — [Live Demo](#) · [Code](#)
+### 📈 [Stock Price Predictor](#) 
 Predicts next-day stock price movement using **XGBoost** with custom technical indicators (RSI, MACD, Bollinger Bands). Full pipeline from data cleaning and EDA (Pandas, NumPy, Matplotlib, Seaborn) to deployment as an interactive Streamlit app.
 
 ---
