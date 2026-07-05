@@ -1,20 +1,29 @@
-<!-- Banner -->
+<!-- Animated typing header -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&w=1350&q=80&h=220&fit=crop" width="100%" style="object-fit:cover" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Krishn%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20LLM%20%26%20Agentic%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Krishn Kumar</h1>
-<h3 align="center">AI Engineer · Building LLM & Agentic Systems · Final-Year ECE @ IIIT Bhopal</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5AC8FA&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+%26+multi-agent+systems;LangChain+%C2%B7+LangGraph+%C2%B7+Groq+%C2%B7+FastAPI;Final-Year+ECE+%40+IIIT+Bhopal" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishn-kumar-2a165b240">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:krishnkumar9305@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=flat&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-500%2B%20Solved-orange?style=flat" />
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Coderkrishn&style=for-the-badge&color=2C5364" alt="profile views"/>
 </p>
 
 ---
@@ -63,14 +72,14 @@
 
 ## 🚀 Featured Projects
 
-### 🕸️ [Multi-Agent Research Pipeline](#) — [Live Demo](#) · [Code](#)
+### 🕸️ [Multi-Agent Research Pipeline](#) 
 Stateful multi-agent research system built with **LangGraph**, orchestrating **Researcher, Analyst, and Writer** agents via a DAG with conditional branching and shared memory. Uses **Tavily** for real-time web retrieval and **Groq (LLaMA 3)** for sub-second multi-step reasoning. Agents autonomously decide when to search, summarize, or synthesize using **LangChain** tool-calling. Streamlit frontend with live agent status and streamed token output.
 > My flagship project — solo build, end-to-end.
 
-### 🩺 [AI Disease Prediction System](#) — [Live Demo](#) · [Code](#)
+### 🩺 [AI Disease Prediction System](#) 
 End-to-end disease prediction system using a **majority-vote ensemble** (Random Forest, Naive Bayes, SVM) for multi-class symptom classification. **FastAPI** backend + **Streamlit** frontend for real-time predictions, with custom symptom vectorization and label encoding to safely handle unseen inputs.
 
-### 📈 [Stock Price Predictor](#) — [Live Demo](#) · [Code](#)
+### 📈 [Stock Price Predictor](#) 
 Predicts next-day stock price movement using **XGBoost** with custom technical indicators (RSI, MACD, Bollinger Bands). Full pipeline from data cleaning and EDA (Pandas, NumPy, Matplotlib, Seaborn) to deployment as an interactive Streamlit app.
 
 ---
