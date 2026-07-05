@@ -1,11 +1,20 @@
-<!-- Animated typing header -->
+<!-- Gradient banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Krishn%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20LLM%20%26%20Agentic%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5AC8FA&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+%26+multi-agent+systems;LangChain+%C2%B7+LangGraph+%C2%B7+Groq+%C2%B7+FastAPI;Final-Year+ECE+%40+IIIT+Bhopal" alt="Typing SVG" />
-</p>
+<table width="100%" style="border:none;">
+  <tr style="border:none;">
+    <td width="65%" valign="middle" style="border:none;">
+      <h1>Hi, I'm Krishn Kumar 👋</h1>
+      <h3>AI Engineer building LLM &amp; agentic systems</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C5364&center=false&vCenter=true&width=500&lines=RAG+pipelines+%26+multi-agent+systems;LangChain+%C2%B7+LangGraph+%C2%B7+Groq+%C2%B7+FastAPI;Final-Year+ECE+%40+IIIT+Bhopal" alt="Typing SVG" />
+    </td>
+    <td width="35%" align="center" style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Coderkrishn&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=1a1a1a&icon_color=2C5364" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishn-kumar-2a165b240">
@@ -20,10 +29,12 @@
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Coderkrishn&style=for-the-badge&color=2C5364" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Coderkrishn&style=for-the-badge&color=2C5364" alt="profile views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coderkrishn&theme=transparent&hide_border=true&background=00000000&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coderkrishn&layout=compact&theme=transparent&hide_border=true&text_color=1a1a1a" height="150"/>
 </p>
 
 ---
@@ -72,14 +83,14 @@
 
 ## 🚀 Featured Projects
 
-### 🕸️ [Multi-Agent Research Pipeline](#) 
+### 🕸️ [Multi-Agent Research Pipeline](#) — [Live Demo](#) · [Code](#)
 Stateful multi-agent research system built with **LangGraph**, orchestrating **Researcher, Analyst, and Writer** agents via a DAG with conditional branching and shared memory. Uses **Tavily** for real-time web retrieval and **Groq (LLaMA 3)** for sub-second multi-step reasoning. Agents autonomously decide when to search, summarize, or synthesize using **LangChain** tool-calling. Streamlit frontend with live agent status and streamed token output.
 > My flagship project — solo build, end-to-end.
 
-### 🩺 [AI Disease Prediction System](#) 
+### 🩺 [AI Disease Prediction System](#) — [Live Demo](#) · [Code](#)
 End-to-end disease prediction system using a **majority-vote ensemble** (Random Forest, Naive Bayes, SVM) for multi-class symptom classification. **FastAPI** backend + **Streamlit** frontend for real-time predictions, with custom symptom vectorization and label encoding to safely handle unseen inputs.
 
-### 📈 [Stock Price Predictor](#) 
+### 📈 [Stock Price Predictor](#) — [Live Demo](#) · [Code](#)
 Predicts next-day stock price movement using **XGBoost** with custom technical indicators (RSI, MACD, Bollinger Bands). Full pipeline from data cleaning and EDA (Pandas, NumPy, Matplotlib, Seaborn) to deployment as an interactive Streamlit app.
 
 ---
